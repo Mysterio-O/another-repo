@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#pri {
+    height: 300px;
+    width: 1000px;
+    border: 3px solid black;
+}
+#sec {
+    height: 250px;
+    width: 400px;
+    border: 3px dotted black;
+}
+#thi {
+    height: 200px;
+    width: 300px;
+    border: 3px dashed black;
+}
